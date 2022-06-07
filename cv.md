@@ -1,5 +1,5 @@
 # Lipov Maxim
-*****
+***
 ## Contacts
 * **Location:** Ekaterinburg, Russia
 * **Telegram:** @lipovmax
@@ -35,4 +35,3 @@ LIMIT 10
 ***
 ## English
 * English Pre-Intermediate A2
-
